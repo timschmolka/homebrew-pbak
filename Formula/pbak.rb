@@ -1,5 +1,5 @@
 class Pbak < Formula
-  desc "Photo backup utility: SD card -> SSD -> Immich via immich-go"
+  desc "Photo backup CLI for photographers: SD card -> SSD -> Immich"
   homepage "https://github.com/timschmolka/pbak"
   url "https://github.com/timschmolka/pbak/archive/refs/tags/v1.4.0.tar.gz"
   sha256 "d08ebf07f77e20f9600d8deba68a22ad45b164545fa4afb54c9d6dec046077e7"
