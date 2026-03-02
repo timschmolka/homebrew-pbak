@@ -1,8 +1,8 @@
 class Pbak < Formula
   desc "Photo backup CLI for photographers: SD card -> SSD -> Immich"
   homepage "https://github.com/timschmolka/pbak"
-  url "https://github.com/timschmolka/pbak/archive/refs/tags/v1.7.0.tar.gz"
-  sha256 "164d5ea9e2c7612e836a3d6b17dec3f9cb0f38a8177ae3485dfef659466e3ae6"
+  url "https://github.com/timschmolka/pbak/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "8834cbf0de39c864bc3f3725bbd5d6ba7392bfab6f63fa76f9380468f769563c"
   license "MIT"
 
   depends_on "exiftool"
