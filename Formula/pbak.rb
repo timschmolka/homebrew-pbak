@@ -13,6 +13,7 @@ class Pbak < Formula
     bin.install "bin/pbak"
     lib.install Dir["lib/pbak"]
     zsh_completion.install "completions/pbak.zsh" => "_pbak"
+    bash_completion.install "completions/pbak.bash" => "pbak"
   end
 
   test do
